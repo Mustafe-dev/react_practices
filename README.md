@@ -1,4 +1,5 @@
-
+# image of the projects
+![image alt](https://github.com/Mustafe-dev/react_practices/blob/c51ad669ce40c414935f42ee0ba5b75d89901c55/coin_img.png)
 
 # React + Vite
 
