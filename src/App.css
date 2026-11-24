@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.Container{
+    width: 100%;
+    min-height:100vh ;
+    padding: 20px;
+   
+}
+.card{
+  
+    padding:20px;
+    margin: 0 auto;
+    width: 400px;
+}
+.card>h1{
+    padding: 10px 0;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.btn-par{
+    padding:7px 0;
+}
+.btn-par button{
+    padding:5px 20px;
+    text-align: center;
+    background:blue;
+    color:white;
+    border:none;
+    border-radius: 5px;
+    width: 100px;
+    margin-bottom: 15px;
+}
